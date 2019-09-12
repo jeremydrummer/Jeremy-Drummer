@@ -1,0 +1,8 @@
+title: jeremydrummer.github.io
+description: J E R E M Y   D R U M M E R
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions

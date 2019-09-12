@@ -1,0 +1,1 @@
+Saya adalah mahasiswa tingkat pertama di Universitas Lampung. Saya mengambil Program Studi Teknik Informatika. Lahir di Jakarta, 28 Maret 1998. Asal dari SMAN 8 Kota Tangerang. NPM saya 1615061017. Username Project Euler saya jeremydrummer. Hobi saya adalah semua hal yang berhubungan dengan Musik.
